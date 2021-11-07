@@ -1,7 +1,5 @@
 # Repository for Data Science Porfolio
 
-<hr>
-
 Only includes personal projects
 
 ### Contents
